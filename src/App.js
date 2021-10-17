@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Changed text
+          Learn react with changed text
         </a>
       </header>
     </div>
